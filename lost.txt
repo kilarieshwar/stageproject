@@ -2,4 +2,4 @@ Hello everyone;
 I am good buddy:
 hey buddy;
 Added some text;
-cool;
+cool; nice dog;
